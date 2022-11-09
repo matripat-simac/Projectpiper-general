@@ -1,6 +1,6 @@
 _schema-version: '3.1'
 ID: sap.capire-bookshop
-version: 1.0.0
+version: 1.0.1
 description: "A simple bookshop application"
 parameters:
   enable-parallel-deployments: true
